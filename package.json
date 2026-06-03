@@ -1,0 +1,25 @@
+{
+  "name": "first-backend-project",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "homepage": "https://github.com/Sarthak2905/First-Backend-Project#readme",
+  "bugs": {
+    "url": "https://github.com/Sarthak2905/First-Backend-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarthak2905/First-Backend-Project.git"
+  },
+  "license": "ISC",
+  "author": "Sarthak Hendre",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
